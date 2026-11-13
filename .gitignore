@@ -1,0 +1,6 @@
+data/
+guidelines/
+.env
+__pycache__/
+.vscode/
+faostat_sua_dataset/
